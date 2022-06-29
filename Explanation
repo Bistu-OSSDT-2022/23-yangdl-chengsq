@@ -1,13 +1,14 @@
 def nothing(x)
-滑动条的回调函数 本例中无作用
+滑动条回调函数 本例中无作用
 img=np.zeros((300,512,3),np.uint8)
-创建一个长宽分别为300,512像素的纯色背景，其中3为3个通道R G B
-类型为np.uint8。返回来一个给定形状和类型的用0填充的数组
-cv2.createTrackbar(‘R’,‘image’,0,255,nothing) 创建一个滑动条，滑动条的名字为R，滑动条被放置在窗口image中，可调整的数值为0到255，回调函数Nothing
+创建一个长为300,宽为512像素的纯色背景，其中3为3个通道R G B
+类型为np.uint8，会返回一个给定形状和类型的用0填充的数组
+cv2.createTrackbar(‘R’,‘image’,0,255,nothing) 
+创建一个滑动条，名字为R，放置在窗口image中，可调整的数值为0到255，回调函数Nothing
 switch=‘0:0FF\n1:ON’
 cv2.createTrackbar(switch,‘image’,0,1,nothing)
 用滑动条代替开关按钮，只有在1(ON)的时候滑动其他颜色滑动条才有用，否则为黑色
 r=cv2.getTrackbarPos(‘R’,‘image’)
-得到滑动条的数值，'R‘滑动条名字，'image’为滑动条所在窗口
+得到滑动条的数值，'R‘为滑动条名字，'image’为滑动条所在窗口
 img[:]=[b,g,r]
 得到颜色通道顺序为b,g,r的颜色混合
