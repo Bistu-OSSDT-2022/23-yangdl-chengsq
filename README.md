@@ -22,7 +22,9 @@
 ### Python环境下OpenCV的配置说明
 #### Python安装
 [python下载链接（windows）](http://www.python.org/downloads/windows/)
-安装完成后win+r，输入Python确认，如果安装成功会显示Python版本信息，如下图![9997d6ad04113b0d1f51e23d65cbc9d6.jpeg](en-resource://database/514:1)
+
+安装完成后win+r，输入Python确认，如果安装成功会显示Python版本信息，如下图!
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220629221309.jpg)
 #### pycharm安装
 [pycharm下载链接](https://www.jetbrains.com/pycharm/download/#section=windows)
 ##### 配置pycharm
