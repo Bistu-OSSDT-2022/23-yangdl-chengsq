@@ -47,9 +47,9 @@
 ![3393987fda0355b5dee06125d56b1267.png](en-resource://database/526:1)
 ### 配置OpenCV
 * 在pycharm下安装；点击file，选择settings进入
-![bb8cdd367d7ade893a70689ad42b47ef.jpeg](en-resource://database/528:1)
+![image](https://github.com/QAQDaisy/Daisy-s/commit/bbb963950514466858d5811d8b3501b0da9927f8#diff-cd0e06a8dc6005508e144973fae72c8ac9acb5480e3890fe0d41d577b774eaee)
 * 点击project里+号进入，并且搜索OpenCV-Python
-![ae68b3bf7789ccfd3e2b8c522c751e42.jpeg](en-resource://database/530:1)
+![image](https://github.com/QAQDaisy/Daisy-s/commit/bbb963950514466858d5811d8b3501b0da9927f8#diff-727539688330034970aabdc7ed28cb662eff969a460a7b55cc232bd43fcc6332)
 * 最后点击install package，等待安装完成。
 
 * 下面是国内的opencv源，直接把链接复制过去点ok；
