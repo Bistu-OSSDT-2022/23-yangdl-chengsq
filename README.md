@@ -1,4 +1,15 @@
 # 基于Python和OpenCV的给图形界面增加易用的滑动条功能
+## 团队介绍
+ :thumbsup:我们是第23小组——热敏电组！:stuck_out_tongue_closed_eyes:
+### 指导老师
++ 杨大利老师
+### 成员
++ 程思琪（组长）
++ 倪芊睿
++ 孙鉴心
++ 张航
++ 张奕彤
+
 ## 项目描述
 基于OpenCV实现的图像处理和计算机视觉方面的通用算法，我们可以使用creatTrackbar()函数来创建一个滑动条，以调节参数，可以达到按钮的作用，是一个非常实用的功能。通过creatTrackbar()函数和回调函数的配合使用，利用滑动条功能我们可以给图形界面实现颜色、大小和是否出现等变化，并将它们进行组合，以实现不同的需求。
 ## 演示画面
@@ -47,34 +58,20 @@
 ![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-30%20100834.png)
 ### 配置OpenCV
 * 在pycharm下安装；点击file，选择settings进入
-* 
+
 ![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220629224010.jpg)
+
 * 点击project里+号进入，并且搜索OpenCV-Python
 ![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220629224448.jpg)
 * 最后点击install package，等待安装完成。
 
 * 下面是国内的opencv源，直接把链接复制过去点ok；
+  阿里云 http://mirrors.aliyun.com/pypi/simple/
+  中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/
+  豆瓣(douban) http://pypi.douban.com/simple/
+  清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/
+  中国科学技术大学 http://pypi.mirrors.ustc.edu.cn/simple/ 
 
-阿里云 http://mirrors.aliyun.com/pypi/simple/
+:heart:如果在安装过程中遇到问题，详见项目FAQ文件，非常感谢:heart:
 
-中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/
-
-豆瓣(douban) http://pypi.douban.com/simple/
-
-清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/
-
-中国科学技术大学 http://pypi.mirrors.ustc.edu.cn/simple/ 
-
-如果在安装过程中遇到问题，详见项目FAQ文件
-
-## 团队介绍
-我们小组是热敏电组！:stuck_out_tongue_closed_eyes:
-### 指导老师
-+ 杨大利老师
-### 成员
-+ 程思琪（组长）
-+ 倪芊睿
-+ 孙鉴心
-+ 张航
-+ 张奕彤
 
