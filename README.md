@@ -77,6 +77,6 @@
   
   中国科学技术大学 http://pypi.mirrors.ustc.edu.cn/simple/ 
 
-:heart:如果在安装过程中遇到问题，详见项目FAQ文件，https://github.com/Bistu-OSSDT-2022/23-yangdl-chengsq/blob/main/FAQ 非常感谢:heart:
+:heart:如果在安装过程中遇到问题，详见项目[FAQ文件](https://github.com/Bistu-OSSDT-2022/23-yangdl-chengsq/blob/main/FAQ) 非常感谢:heart:
 
 
