@@ -32,19 +32,19 @@
 ![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-30%20095733.png)
 
 * 如果你之前使用过 pycharm 并有相关的配置文件，则在此处选择；如果没有，默认即可。同意用户使用协议：
-![be697b7679396f8f4d2429914e0a85b1.png](en-resource://database/518:1)
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-30%20095759.png)
 
 * 确定是否需要进行数据共享：
-![5ff880ce4f9fcc5919209d0ab9376ebd.png](en-resource://database/520:1)
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-30%20095816.png)
 
 * 下载插件，你可以根据需要下载，也可以不装。建议只装 MarkDown插件即可：
-![9c79a14dd0779cf4a91feaa5c6979745.png](en-resource://database/522:1)
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-30%20095834.png)
 
 * 在使用过程中，如果出现 Interpreter field is empty 表示 Python 的环境变量有问题。当然我们也可以直接选择，请看下面。选择图中 1，如果 3 位置的下来中选不到 Python.exe， 则点击 2 位置按钮。
-![3fdb02d274ac745323b68a8fcbad5e43.png](en-resource://database/524:1)
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-30%20095945.png)
 
 * 选择图中1， 如果 3 位置依然没有出现 Python.exe，则点击 2 位置按钮选择 Python 的安装目录，找到你安装的 Python 目录，然后选择 Python.exe。（下图3的位置以您安装的python位置为准）
-![3393987fda0355b5dee06125d56b1267.png](en-resource://database/526:1)
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-30%20100834.png)
 ### 配置OpenCV
 * 在pycharm下安装；点击file，选择settings进入
 * 
