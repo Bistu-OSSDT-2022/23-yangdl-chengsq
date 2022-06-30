@@ -29,7 +29,7 @@
 [pycharm下载链接](https://www.jetbrains.com/pycharm/download/#section=windows)
 ##### 配置pycharm
 * 首次使用会弹出以下窗口
-![df6746e381cad2dfe828f3d32395452a.png](en-resource://database/516:1)
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-30%20095733.png)
 
 * 如果你之前使用过 pycharm 并有相关的配置文件，则在此处选择；如果没有，默认即可。同意用户使用协议：
 ![be697b7679396f8f4d2429914e0a85b1.png](en-resource://database/518:1)
@@ -47,6 +47,7 @@
 ![3393987fda0355b5dee06125d56b1267.png](en-resource://database/526:1)
 ### 配置OpenCV
 * 在pycharm下安装；点击file，选择settings进入
+* 
 ![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220629224010.jpg)
 * 点击project里+号进入，并且搜索OpenCV-Python
 ![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220629224448.jpg)
