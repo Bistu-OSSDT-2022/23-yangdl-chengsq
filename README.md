@@ -10,10 +10,10 @@
 + 张航
 + 张奕彤
 
-[TOC]
----
 ## 项目描述
 基于OpenCV实现的图像处理和计算机视觉方面的通用算法，我们可以使用creatTrackbar()函数来创建一个滑动条，以调节参数，可以达到按钮的作用，是一个非常实用的功能。通过creatTrackbar()函数和回调函数的配合使用，利用滑动条功能我们可以给图形界面实现颜色、大小和是否出现等变化，并将它们进行组合，以实现不同的需求。
+
+---
 ## 演示画面
 1. 需要先开启程序on
 
@@ -24,6 +24,8 @@
 ![]()![image](https://user-images.githubusercontent.com/107832597/176445723-1f61186d-b34f-43ba-9840-3c62f59ae966.png)
 
 ![]()<img width="365" alt="image" src="https://user-images.githubusercontent.com/107832597/176446294-982d73e3-abfc-44ec-aadc-5f541beeeb63.png">
+
+---
 ## 项目使用说明
 ### 环境部署
 + Python3.8
@@ -38,6 +40,8 @@
 
 安装完成后win+r，输入Python确认，如果安装成功会显示Python版本信息，如下图!
 ![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220629221309.jpg)
+
+---
 #### pycharm安装
 [pycharm下载链接](https://www.jetbrains.com/pycharm/download/#section=windows)
 ##### 配置pycharm
@@ -58,6 +62,8 @@
 
 * 选择图中1， 如果 3 位置依然没有出现 Python.exe，则点击 2 位置按钮选择 Python 的安装目录，找到你安装的 Python 目录，然后选择 Python.exe。（下图3的位置以您安装的python位置为准）
 ![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-30%20100834.png)
+
+---
 ### 配置OpenCV
 * 在pycharm下安装；点击file，选择settings进入
 
