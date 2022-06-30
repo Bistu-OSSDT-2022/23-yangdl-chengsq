@@ -1,0 +1,63 @@
+# 项目安装说明
+
+## 环境部署
++ Python3.8
+
++ OpenCV3.4.1(3.4.2以后有些算法申请了专利
+
++ 编译器pycharm
+
+## Python环境下OpenCV的配置说明
+### Python安装
+[python下载链接（windows）](http://www.python.org/downloads/windows/)
+
+安装完成后win+r，输入Python确认，如果安装成功会显示Python版本信息，如下图!
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220629221309.jpg)
+
+---
+### pycharm安装
+[pycharm下载链接](https://www.jetbrains.com/pycharm/download/#section=windows)
+#### 配置pycharm
+* 首次使用会弹出以下窗口
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-30%20095733.png)
+
+* 如果你之前使用过 pycharm 并有相关的配置文件，则在此处选择；如果没有，默认即可。同意用户使用协议：
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-30%20095759.png)
+
+* 确定是否需要进行数据共享：
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-30%20095816.png)
+
+* 下载插件，你可以根据需要下载，也可以不装。建议只装 MarkDown插件即可：
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-30%20095834.png)
+
+* 在使用过程中，如果出现 Interpreter field is empty 表示 Python 的环境变量有问题。当然我们也可以直接选择，请看下面。选择图中 1，如果 3 位置的下来中选不到 Python.exe， 则点击 2 位置按钮。
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-30%20095945.png)
+
+* 选择图中1， 如果 3 位置依然没有出现 Python.exe，则点击 2 位置按钮选择 Python 的安装目录，找到你安装的 Python 目录，然后选择 Python.exe。（下图3的位置以您安装的python位置为准）
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-30%20100834.png)
+
+---
+## 配置OpenCV
+* 在pycharm下安装；点击file，选择settings进入
+
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220629224010.jpg)
+
+* 点击project里+号进入，并且搜索OpenCV-Python
+![image](https://github.com/QAQDaisy/Daisy-s/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220629224448.jpg)
+* 最后点击install package，等待安装完成。
+
+* 下面是国内的opencv源，直接把链接复制过去点ok；
+
+  阿里云 http://mirrors.aliyun.com/pypi/simple/
+  
+  中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/
+  
+  豆瓣(douban) http://pypi.douban.com/simple/
+  
+  清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/
+  
+  中国科学技术大学 http://pypi.mirrors.ustc.edu.cn/simple/ 
+
+:heart:如果在安装过程中遇到问题，详见项目[FAQ文件](https://github.com/Bistu-OSSDT-2022/23-yangdl-chengsq/blob/main/FAQ) 非常感谢:heart:
+
+
